@@ -1,0 +1,7 @@
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\LearnCore204.exe
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\LearnCore204.dll
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\LearnCore204.deps.json
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\LearnCore204.runtimeconfig.json
+D:\.Net_Azure_204\LearnCore204\obj\Release\net9.0\PubTmp\Out\LearnCore204.pdb
